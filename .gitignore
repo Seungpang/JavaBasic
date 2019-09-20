@@ -1,5 +1,7 @@
 /build/
 .project
-*.settings/
-/bin/
+Lesson01/.settings/
+Lesson01/bin/
 .classpath
+Chapter2/.settings/
+Chapter2/bin/
